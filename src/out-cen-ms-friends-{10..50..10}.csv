@@ -1,0 +1,1 @@
+{"init terminating in do_boot",{badarg,[{erlang,list_to_integer,["{10..50..10}"],[]},{benchmark_centralized,test_make_story,1,[{file,"benchmark_centralized.erl"},{line,123}]},{init,start_em,1,[]},{init,do_boot,3,[]}]}}
